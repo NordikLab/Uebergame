@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<LabCfg>
+    <Setting name="DefaultWidth">10</Setting>
+    <Setting name="DropLocation">10</Setting>
+    <Setting name="cameraSpeed">145.641</Setting>
+    <Group name="General">
+        <Group name="WorldEditor">
+            <Setting name="dropType">toTerrain</Setting>
+            <Setting name="CamViewEnabled">1</Setting>
+        </Group>
+    </Group>
+    <Group name="Common">
+        <Group name="General">
+            <Setting name="levelsDirectory">levels</Setting>
+            <Setting name="undoLimit">40</Setting>
+            <Setting name="torsionPath">C:Program Files (x86)Torsion</Setting>
+            <Setting name="defaultPlugin">SceneEditorPlugin</Setting>
+            <Setting name="newLevelFile">tlab/levels/BlankRoom.mis</Setting>
+            <Setting name="useNativeMenu">0</Setting>
+        </Group>
+        <Group name="Camera">
+            <Setting name="renderOrthoGrid">1</Setting>
+            <Setting name="invertYAxis">0</Setting>
+            <Setting name="LaunchInFreeview">1</Setting>
+            <Setting name="CamViewEnabled">1</Setting>
+            <Setting name="CameraScrollSpeed">10</Setting>
+            <Setting name="cameraDisplayType">6</Setting>
+            <Setting name="cameraDisplayMode">Standard Camera</Setting>
+            <Setting name="InitialCameraMode">Standard Camera</Setting>
+            <Setting name="cameraSpeed">42.3358</Setting>
+            <Setting name="orthoFOV">50</Setting>
+        </Group>
+        <Group name="Input">
+            <Setting name="MouseSpeed">0.292308</Setting>
+            <Setting name="MouseScrollSpeed">3.15</Setting>
+        </Group>
+        <Group name="Camera and views">
+            <Setting name="orthoFOV">50</Setting>
+            <Setting name="LaunchInFreeview">1</Setting>
+            <Setting name="CamViewEnabled">1</Setting>
+            <Setting name="cameraDisplayMode">Standard Camera</Setting>
+            <Setting name="cameraDisplayType">6</Setting>
+            <Setting name="renderOrthoGrid">1</Setting>
+            <Setting name="cameraSpeed">1</Setting>
+        </Group>
+    </Group>
+    <Group name="WorldEditor">
+        <Group name="GridUnit">
+            <Setting name="gridSize">4</Setting>
+        </Group>
+        <Group name="Objects">
+            <Setting name="snapGround">0</Setting>
+            <Setting name="renderObjHandle">1</Setting>
+            <Setting name="dropAtScreenCenterMax">100.0</Setting>
+            <Setting name="snapSoft">0</Setting>
+            <Setting name="boundingBoxCollision">0</Setting>
+            <Setting name="dropAtScreenCenterScalar">1.0</Setting>
+            <Setting name="renderPopupBackground">1</Setting>
+            <Setting name="showMousePopupInfo">1</Setting>
+            <Setting name="fadeIconsDist">8</Setting>
+            <Setting name="field">DEFAULT</Setting>
+            <Setting name="fadeIcons">1</Setting>
+            <Setting name="snapSoftSize">2.0</Setting>
+            <Setting name="dropType">atTerrain</Setting>
+            <Setting name="gridSnap">0</Setting>
+            <Setting name="forceLoadDAE">0</Setting>
+            <Setting name="renderSelectionBox">1</Setting>
+            <Setting name="renderObjText">1</Setting>
+        </Group>
+        <Group name="AxisGizmo">
+            <Setting name="allowSnapScale">1</Setting>
+            <Setting name="scaleSnap">0.3</Setting>
+            <Setting name="rotateScalar">0.31</Setting>
+            <Setting name="renderSolid">1</Setting>
+            <Setting name="snapToGrid">0</Setting>
+            <Setting name="allowSnapRotations">1</Setting>
+            <Setting name="mouseRotateScalar">0.8</Setting>
+            <Setting name="gridColor">6 83 11 29.63</Setting>
+            <Setting name="renderMoveGrid">1</Setting>
+            <Setting name="renderWhenUsed">1</Setting>
+            <Setting name="renderInfoText">1</Setting>
+            <Setting name="mouseScaleScalar">0.8</Setting>
+            <Setting name="screenLength">95.1</Setting>
+            <Setting name="renderPlane">1</Setting>
+            <Setting name="planeDim">34.7222</Setting>
+            <Setting name="snapRotations">1</Setting>
+            <Setting name="axisGizmoMaxScreenLen">100</Setting>
+            <Setting name="renderPlaneHashes">1</Setting>
+            <Setting name="scaleScalar">0.49</Setting>
+            <Setting name="rotationSnap">15</Setting>
+            <Setting name="gridSize">2.77778</Setting>
+        </Group>
+        <Group name="Axis Gizmo">
+            <Setting name="mouseScaleScalar">0.8</Setting>
+            <Setting name="axisGizmoMaxScreenLen">100</Setting>
+            <Setting name="renderWhenUsed">0</Setting>
+            <Setting name="rotationSnap">15</Setting>
+            <Setting name="renderInfoText">1</Setting>
+            <Setting name="mouseRotateScalar">0.8</Setting>
+            <Setting name="snapRotations">0</Setting>
+        </Group>
+        <Group name="Colors">
+            <Setting name="faceSelectColor">255 255 0 255</Setting>
+            <Setting name="gridColor">9 254 83 101</Setting>
+            <Setting name="gridOriginColor">255 160 0 251.8</Setting>
+            <Setting name="dragRectColor">3 219 48 255</Setting>
+            <Setting name="objSelectColor">255 0 0 255</Setting>
+            <Setting name="objectTextColor">255 255 255 255</Setting>
+            <Setting name="popupTextColor">255 255 0 255</Setting>
+            <Setting name="selectionBoxColor">255 255 0 255</Setting>
+            <Setting name="gizmoGridColor">0 255 36 15.87</Setting>
+            <Setting name="objMouseOverSelectColor">0 0 255 255</Setting>
+            <Setting name="gridMinorTickColor">222 254 219 173.5</Setting>
+            <Setting name="uvEditorHandleColor">255 255 0 255</Setting>
+            <Setting name="gridSize">1</Setting>
+            <Setting name="raceSelectColor">255 255 0 255</Setting>
+            <Setting name="objMouseOverColor">0 255 0 255</Setting>
+            <Setting name="popupBackgroundColor">100 100 100 255</Setting>
+        </Group>
+        <Group name="Misc">
+            <Setting name="renderPlane">0</Setting>
+            <Setting name="renderPlaneHashes">0</Setting>
+            <Setting name="defaultHandle">tlab/gui/icons/default/DefaultHandle</Setting>
+            <Setting name="planeDim">500</Setting>
+            <Setting name="lockedHandle">tlab/gui/icons/default/LockedHandle</Setting>
+            <Setting name="documentationLocal">../../../Documentation/Official Documentation.html</Setting>
+            <Setting name="selectHandle">tlab/gui/icons/default/SelectHandle</Setting>
+            <Setting name="documentationURL">http://www.garagegames.com/products/torque-3d/documentation/user</Setting>
+            <Setting name="forumURL">http://www.garagegames.com/products/torque-3d/forums</Setting>
+            <Setting name="documentationReference">../../../Documentation/Torque 3D - Script Manual.chm</Setting>
+        </Group>
+        <Group name="Camera">
+            <Setting name="MouseSpeed">2.0</Setting>
+            <Setting name="MouseScrollSpeed">1</Setting>
+            <Setting name="cameraSpeed">1</Setting>
+        </Group>
+    </Group>
+    <Group name="Plugins">
+        <Group name="ConvexEditor">
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="pluginOrder">12</Setting>
+            <Setting name="materialName">Grid512_OrangeLines_Mat</Setting>
+            <Setting name="enabled">1</Setting>
+        </Group>
+        <Group name="LabModel">
+            <Setting name="SunDiffuseColor">255 255 255 255</Setting>
+            <Setting name="gridDimension">40 40</Setting>
+            <Setting name="RenderCollision">0</Setting>
+            <Setting name="backgroundColor">0 0 0 100</Setting>
+            <Setting name="ShowObjBox">1</Setting>
+            <Setting name="gridSize">0.1</Setting>
+            <Setting name="ShowNodes">1</Setting>
+            <Setting name="renderMounts">1</Setting>
+            <Setting name="pluginOrder">12</Setting>
+            <Setting name="SunAmbientColor">180 180 180 255</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="HighlightMaterial">1</Setting>
+            <Setting name="ShowBounds">0</Setting>
+            <Setting name="sunAngleX">45</Setting>
+            <Setting name="AdvancedWndVisible">1</Setting>
+            <Setting name="sunAngleZ">135</Setting>
+            <Setting name="ShowGrid">1</Setting>
+        </Group>
+        <Group name="SceneEditor">
+            <Setting name="AmbientGroup">mgAmbient</Setting>
+            <Setting name="CoreGroup">mgCore</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="AssetData2">art/modelArteria/characters/&#x09;AutoData&#x09;Characters</Setting>
+            <Setting name="AssetFolder0">art/models</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="AssetData">Test/Folder&#x09;New Asset 1&#x09;Rocks</Setting>
+            <Setting name="DefaultWidth">22.7273</Setting>
+            <Setting name="AssetData1">Test/FolderB&#x09;New Asset 2&#x09;Grass</Setting>
+            <Setting name="SpawnGroup">PlayerDropPoints</Setting>
+            <Setting name="TSStaticGroup">mgMapModels</Setting>
+            <Setting name="pluginOrder">1</Setting>
+            <Setting name="AutoCreatePrefab">1</Setting>
+            <Setting name="MiscObjectGroup">mgMiscObject</Setting>
+            <Setting name="MiscObject">mgMiscObject</Setting>
+            <Setting name="EnvironmentGroup">mgEnvironment</Setting>
+            <Setting name="AssetData4">art/models/FarmPack/Nature/Grass/&#x09;Grassy&#x09;Grass</Setting>
+            <Setting name="AssetFolder1">art/modelDB</Setting>
+            <Setting name="AssetData3">art/models/&#x09;Model packs&#x09;Lab models</Setting>
+            <Setting name="DropLocation">toCentroid</Setting>
+            <Setting name="AssetData0">Test/Folder&#x09;New Asset 1&#x09;Rocks</Setting>
+            <Setting name="dropType">toTerrain</Setting>
+        </Group>
+        <Group name="RoadEditor">
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="SunDiffuseColor">255 255 255 255</Setting>
+            <Setting name="gridSize">0.1</Setting>
+            <Setting name="consoleSphereLevel">1</Setting>
+            <Setting name="sunAngleX">45</Setting>
+            <Setting name="consoleLineWidth">1</Setting>
+            <Setting name="SunAmbientColor">180 180 180 255</Setting>
+            <Setting name="HoverNodeColor">255 255 255 255</Setting>
+            <Setting name="consoleFrameColor">255 0 0 255</Setting>
+            <Setting name="borderMovePixelSize">20</Setting>
+            <Setting name="SelectedSplineColor">0 255 0 255</Setting>
+            <Setting name="renderMounts">1</Setting>
+            <Setting name="RenderCollision">0</Setting>
+            <Setting name="borderMoveSpeed">0.1</Setting>
+            <Setting name="HighlightMaterial">1</Setting>
+            <Setting name="ShowBounds">0</Setting>
+            <Setting name="DefaultWidth">10</Setting>
+            <Setting name="consoleFillColor">0 0 0 0</Setting>
+            <Setting name="AdvancedWndVisible">1</Setting>
+            <Setting name="gridDimension">40 40</Setting>
+            <Setting name="sunAngleZ">135</Setting>
+            <Setting name="pluginOrder">5</Setting>
+            <Setting name="ShowObjBox">1</Setting>
+            <Setting name="consoleCircleSegments">32</Setting>
+            <Setting name="materialName">DefaultDecalRoadMaterial</Setting>
+            <Setting name="backgroundColor">0 0 0 100</Setting>
+            <Setting name="ShowNodes">1</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="HoverSplineColor">255 0 0 255</Setting>
+            <Setting name="ShowGrid">1</Setting>
+        </Group>
+        <Group name="MaterialEditor">
+            <Setting name="PropShowMap_detailNormal">0</Setting>
+            <Setting name="AutoAddNormal">1</Setting>
+            <Setting name="SpecularSuffix">_s</Setting>
+            <Setting name="AutoAddSpecular">1</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="NormalSuffix">_n</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="PropShowMap_advanced">255 0 0 255</Setting>
+            <Setting name="PropShowMap_Light">0</Setting>
+            <Setting name="PropShowMap_Normal">1</Setting>
+            <Setting name="PropShowGroup_advanced">1</Setting>
+            <Setting name="PropShowMap_Detail">0</Setting>
+            <Setting name="PropShowMap_rendering">0 255 0 255</Setting>
+            <Setting name="DiffuseSuffix">_d</Setting>
+            <Setting name="PropShowMap_environment">0</Setting>
+            <Setting name="PropShowGroup_animation">1</Setting>
+            <Setting name="PropShowMap_specular">1</Setting>
+            <Setting name="PropShowGroup_rendering">1</Setting>
+            <Setting name="PropShowMap_Overlay">0</Setting>
+            <Setting name="DefaultMaterialFile">10</Setting>
+            <Setting name="pluginOrder">4</Setting>
+            <Setting name="PropShowMap_tone">0</Setting>
+            <Setting name="ThumbnailCountIndex">5</Setting>
+        </Group>
+        <Group name="TerrainPainter">
+            <Setting name="pluginOrder">3</Setting>
+            <Setting name="BrushSlopeMax">1</Setting>
+            <Setting name="maxBrushSize">40 40</Setting>
+            <Setting name="softSelectRadius">50</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="SlopeMinAngle">0</Setting>
+            <Setting name="softSelectDefaultFilter">1.000000 0.833333 0.666667 0.500000 0.333333 0.166667 0.000000</Setting>
+            <Setting name="SlopeMaxAngle">90</Setting>
+            <Setting name="brushSoftness">1</Setting>
+            <Setting name="noiseFactor">1.0</Setting>
+            <Setting name="adjustHeightVal">10</Setting>
+            <Setting name="brushSize">2</Setting>
+            <Setting name="setHeightVal">100</Setting>
+            <Setting name="smoothFactor">0.1</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="BrushSlopeMin">1</Setting>
+            <Setting name="brushPressure">1</Setting>
+            <Setting name="brushType">box</Setting>
+            <Setting name="scaleVal">1</Setting>
+            <Setting name="softSelectFilter">1.000000 0.833333 0.666667 0.500000 0.333333 0.166667 0.000000</Setting>
+        </Group>
+        <Group name="ShapeEditor">
+            <Setting name="showObjBox">1</Setting>
+            <Setting name="highlightMaterial">1</Setting>
+            <Setting name="AdvancedWindowVisible">1</Setting>
+            <Setting name="showBounds">0</Setting>
+            <Setting name="ShowGrid">1</Setting>
+            <Setting name="gridSize">0.1</Setting>
+            <Setting name="pluginOrder">11</Setting>
+            <Setting name="SunDiffuseColor">255 255 255 255</Setting>
+            <Setting name="gridDimension">20 23</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="sunAngleZ">135</Setting>
+            <Setting name="sunAngleX">45</Setting>
+            <Setting name="showNodes">1</Setting>
+            <Setting name="SunAmbientColor">180 180 180 255</Setting>
+            <Setting name="renderMounts">1</Setting>
+            <Setting name="RenderCollision">0</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="AdvancedWndVisible">1</Setting>
+            <Setting name="AnimationBarVisible">1</Setting>
+            <Setting name="backgroundColor">0 0 0 100</Setting>
+        </Group>
+        <Group name="TerrainEditor">
+            <Setting name="brushSize">100</Setting>
+            <Setting name="defaultBrushPressure">22</Setting>
+            <Setting name="SlopeMaxAngle">90</Setting>
+            <Setting name="brushType">box</Setting>
+            <Setting name="brushPressure">12</Setting>
+            <Setting name="SlopeMinAngle">0</Setting>
+            <Setting name="DefaultBrushType">box</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="brushSetHeightRange">20 60</Setting>
+            <Setting name="smoothFactor">0.1</Setting>
+            <Setting name="DefaultBrushSetHeight">44</Setting>
+            <Setting name="noiseFactor">1.0</Setting>
+            <Setting name="maxBrushSize">200 200</Setting>
+            <Setting name="scaleVal">1</Setting>
+            <Setting name="softSelectDefaultFilter">1.000000 0.833333 0.666667 0.500000 0.333333 0.166667 0.000000</Setting>
+            <Setting name="pluginOrder">2</Setting>
+            <Setting name="softSelectFilter">1.000000 0.833333 0.666667 0.500000 0.333333 0.166667 0.000000</Setting>
+            <Setting name="softSelectRadius">50</Setting>
+            <Setting name="setHeightVal">100</Setting>
+            <Setting name="brushSoftness">1</Setting>
+            <Setting name="DefaultBrushSoftness">33</Setting>
+            <Setting name="BrushSetHeight">1</Setting>
+            <Setting name="defaultBrushSize">12</Setting>
+            <Setting name="adjustHeightVal">10</Setting>
+        </Group>
+        <Group name="RiverEditor">
+            <Setting name="HoverSplineColor">255 0 0 255</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="DefaultNormal">0 0 1</Setting>
+            <Setting name="HoverNodeColor">255 255 255 255</Setting>
+            <Setting name="DefaultDepth">30</Setting>
+            <Setting name="pluginOrder">7</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="SelectedSplineColor">0 255 0 255</Setting>
+            <Setting name="DefaultWidth">20</Setting>
+        </Group>
+        <Group name="DatablockEditor">
+            <Setting name="libraryTab">0</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="pluginOrder">13</Setting>
+        </Group>
+        <Group name="MissionAreaEditor">
+            <Setting name="enabled">1</Setting>
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="missionBoundsColor">255 255 255 255</Setting>
+            <Setting name="pluginOrder">15</Setting>
+        </Group>
+        <Group name="MeshRoadEditor">
+            <Setting name="enabled">1</Setting>
+            <Setting name="pluginOrder">8</Setting>
+            <Setting name="isEnabled">1</Setting>
+        </Group>
+        <Group name="ParticleEditor">
+            <Setting name="enabled">1</Setting>
+            <Setting name="pluginOrder">10</Setting>
+            <Setting name="isEnabled">1</Setting>
+        </Group>
+        <Group name="ForestEditor">
+            <Setting name="brushPressure">2</Setting>
+            <Setting name="DefaultWidth">10</Setting>
+            <Setting name="DefaultBrushSize">5</Setting>
+            <Setting name="DefaultBrush">BaseBrush</Setting>
+            <Setting name="pluginOrder">6</Setting>
+            <Setting name="brushSize">2</Setting>
+            <Setting name="LastBrushPressure">2</Setting>
+            <Setting name="defaultBrushHardness">23</Setting>
+            <Setting name="brushHardness">2</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="defaultGlobalScale">1</Setting>
+            <Setting name="DefaultBrushPressure">20</Setting>
+            <Setting name="GlobalScale">1</Setting>
+            <Setting name="isEnabled">1</Setting>
+        </Group>
+        <Group name="ScriptEditor">
+            <Setting name="pluginOrder">15</Setting>
+            <Setting name="enabled">1</Setting>
+            <Setting name="isEnabled">1</Setting>
+        </Group>
+        <Group name="DecalEditor">
+            <Setting name="isEnabled">1</Setting>
+            <Setting name="pluginOrder">9</Setting>
+            <Setting name="enabled">1</Setting>
+        </Group>
+        <Group name="SketchTool">
+            <Setting name="pluginOrder">14</Setting>
+        </Group>
+    </Group>
+    <Group name="3DView">
+        <Group name="Camera">
+            <Setting name="MouseScrollSpeed">0.482051</Setting>
+            <Setting name="MouseSpeed">0.502564</Setting>
+        </Group>
+    </Group>
+</LabCfg>

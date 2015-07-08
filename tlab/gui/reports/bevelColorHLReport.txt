@@ -1,0 +1,24 @@
+================================================
+Report of profile analyse to find field: bevelColorHL
+================================================
+--------------------------------------------
+List of profiles found with field: bevelColorHL
+ToolsPanelColorA ToolsPanelDarkA ToolsPanelDarkB ToolsPanelLightB ToolsWindowMain ToolsGuiWindowA GuiInspectorFieldProfile ToolsButtonArray ToolsLabText ToolsLabTextDark ToolsLabPanelZoneA ToolsLabPanelDarkZoneA
+--------------------------------------------
+List of different values found for field: bevelColorHL
+Fuchsia	255 0 255 255	Magenta	255 255 255
+--------------------------------------------
+List of profiles set with each values for field: bevelColorHL
+---------------
+Fuchsia use by profiles:
+ToolsPanelColorA ToolsPanelDarkA ToolsLabPanelZoneA ToolsLabPanelDarkZoneA
+---------------
+255 0 255 255 use by profiles:
+ToolsPanelDarkB
+---------------
+Magenta use by profiles:
+ToolsPanelLightB ToolsLabText ToolsLabTextDark
+---------------
+255 255 255 use by profiles:
+ToolsWindowMain ToolsGuiWindowA GuiInspectorFieldProfile ToolsButtonArray
+================================================

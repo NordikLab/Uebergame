@@ -1,0 +1,1 @@
+[Fri Jul 03 2015 19:04:36 GMT-0400 (Est (heure d’été))] Layer "media_pause.png": Duplicate path: media_pause.png
