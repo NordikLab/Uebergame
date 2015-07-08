@@ -1,0 +1,50 @@
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsDefaultProfile ToolsRolloutMain ToolsGuiSolidDefaultProfile ToolsGuiTransparentProfile ToolsGuiGroupBorderProfile ToolsGuiTabBorderProfile ToolsGuiToolTipProfile ToolsGuiModelessDialogProfile ToolsGuiFrameSetProfile ToolsGuiRLProgressBitmapProfile ToolsButtonProfile ToolsButtonProfile ToolsButtonHighlight ToolsButtonProfile ToolsButtonDark ToolsGuiEditorTabPage ToolsCheckBoxProfile_S1 ToolsCheckBoxProfile_S1 ToolsCheckBoxProfile_Cancel GuiInspectorCheckBoxProfile ToolsGuiRadioProfile ToolsScrollProfile ToolsGuiOverlayProfile ToolsGuiMenuProfile ToolsGuiMenuAltProfile ToolsSliderProfile ToolsSliderBox ToolsGuiPopupMenuItemBorder ToolsGuiPopUpMenuDefault ToolsDropdownProfile ToolsGuiPopUpMenuTabProfile ToolsGuiPopUpMenuEditProfile ToolsGuiListBoxProfile ToolsTabBookProfile ToolsGuiTabBookNoBitmapProfile ToolsPanelDarkA ToolsTreeViewProfile ToolsGuiTextPadProfile ToolsGuiFormProfile EditorDefaultProfile EditorToolButtonProfile EditorTextProfile EditorTextProfileWhite WorldEditorProfile EditorScrollProfile GuiEditorClassProfile EPainterBitmapProfile EPainterBorderButtonProfile EPainterDragDropProfile ToolsPanelColorA ToolsPanelColorB ToolsPanelColorC ToolsPanelDarkA ToolsPanelDarkC ToolsPanelDarkC ToolsPanelDarkB ToolsPanelDarkC ToolsPanelLightA ToolsPanelLightB ToolsPanelLightC ToolsPanelLightC ToolsPanelDarkA ToolsPanelDarkA ToolsWindowMain ToolsGuiToolbarWindowProfile ToolsGuiWindowCollapseProfile ToolsGuiWindowA ToolsGuiWindowBoxA ToolsRolloutMain ToolsEditorToolbarA ToolsEditorToolbarB ToolsEditorPalette GuiEditorClassProfile GuiBackFillProfile GuiControlListPopupProfile GuiSceneGraphEditProfile GuiInspectorButtonProfile GuiInspectorTextEditProfile GuiDropdownTextEditProfile GuiInspectorGroupProfile GuiInspectorFieldProfile GuiInspectorMultiFieldProfile GuiInspectorDynamicFieldProfile GuiInspectorRolloutProfile0 GuiInspectorStackProfile GuiInspectorProfile GuiInspectorInfoProfile GuiInspectorTypeFileNameProfile GuiInspectorColumnCtrlProfile InspectorTypeEnumProfile InspectorTypeCheckboxProfile GuiDirectoryTreeProfile GuiDirectoryFileListProfile GuiDragAndDropProfile GuiInspectorFieldInfoPaneProfile GuiInspectorFieldInfoMLTextProfile ToolsButtonArray ToolsGuiMenuBarProfile ToolsLabText ToolsLabText_C ToolsLabText_Small ToolsLabText_Small_C ToolsLabText_Big ToolsLabText_Big_C ToolsLabTextDark ToolsLabTextDark_C ToolsLabTextDark_Small ToolsLabTextDark_Small_C ToolsLabTextDark_Big ToolsLabTextDark_Big_C ToolsLabPanelZoneA ToolsLabPanelZoneB ToolsLabPanelDarkZoneA ToolsLabPanelDarkZoneB ToolsLabPanelMainA ToolsLabPanelMainB ToolsLabPanelColorA ToolsLabPanelColorB ToolsLabPanelColorC ToolsLabPanelColorD ToolsLabPanelColorE ToolsTextBase ToolsGuiTextTiny ToolsGuiTextBoldCenterProfile ToolsGuiTextRightProfile ToolsGuiTextCenterProfile ToolsGuiInspectorTitleTextProfile ToolsGuiAutoSizeTextProfile ToolsGuiMLTextProfile ToolsGuiTextArrayProfile ToolsTextBase_List ToolsTextEditProfile ToolsTextEditDark_Num ToolsTextEditProfile_Num
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile
+================================================
+================================================
+Report of duplicated profiles
+--------------------------------------------
+ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile ToolsButtonProfile ToolsPanelDarkC ToolsPanelLightC ToolsPanelDarkA ToolsRolloutMain GuiEditorClassProfile
+================================================

@@ -1,0 +1,95 @@
+
+new SimGroup(TPG_LayerGroup) {
+	canSave = "1";
+	canSaveDynamicFields = "1";
+	new ScriptObject() {
+		internalName = "Layer_74";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "10000";
+		heightMin = "77";
+		matIndex = "2";
+		matInternalName = "fvGround_MossyA";
+		matObject = "3644";
+		pill = "10386";
+		slopeMax = "35";
+		slopeMin = "0";
+		useTerrainHeight = "1";
+	};
+	new ScriptObject() {
+		internalName = "Layer_75";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "77";
+		heightMin = "0";
+		matIndex = "0";
+		matInternalName = "fvGrass_MeadowA";
+		matObject = "3636";
+		pill = "10402";
+		slopeMax = "35";
+		slopeMin = "0";
+		useTerrainHeight = "1";
+	};
+	new ScriptObject() {
+		internalName = "Layer_76";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "10000";
+		heightMin = "0";
+		matIndex = "4";
+		matInternalName = "fvRock_BaseA";
+		matObject = "3647";
+		pill = "10418";
+		slopeMax = "90";
+		slopeMin = "35";
+		useTerrainHeight = "1";
+	};
+	new ScriptObject() {
+		internalName = "Layer_74";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "15";
+		heightMin = "0";
+		matIndex = "5";
+		matInternalName = "fvRock_BaseA_Sand";
+		matObject = "3649";
+		pill = "14674";
+		slopeMax = "33";
+		slopeMin = "0";
+		useTerrainHeight = "1";
+	};
+	new ScriptObject() {
+		internalName = "Layer_75";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "10000";
+		heightMin = "0";
+		matIndex = "7";
+		matInternalName = "fvRock_RoughA_Cliff";
+		matObject = "3660";
+		pill = "14694";
+		slopeMax = "90";
+		slopeMin = "45";
+		useTerrainHeight = "1";
+	};
+	new ScriptObject() {
+		internalName = "Layer_76";
+		canSave = "1";
+		canSaveDynamicFields = "1";
+		coverage = "100";
+		heightMax = "66";
+		heightMin = "0";
+		matIndex = "8";
+		matInternalName = "fvRock_RoughA";
+		matObject = "3659";
+		pill = "14714";
+		slopeMax = "45";
+		slopeMin = "33";
+		useTerrainHeight = "1";
+	};
+};
